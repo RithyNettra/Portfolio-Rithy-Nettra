@@ -8,9 +8,9 @@ function projects() {
     <div className={styles.projectsContainer}>
         <ProjectCard 
             src={projects_img2}
-            link={`https://www.youtube.com/`}
-            title={`Travel Website`}
-            info="Look For New Places To Travel"
+            link={`https://reabplan.vercel.app/`}
+            title={`Reab Plan`}
+            info="Famous Places in Cambodia"
         />
         <ProjectCard 
             src={projects_img2}
