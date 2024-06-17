@@ -7,10 +7,10 @@ function projects() {
     <h1 className={styles.sectiontitle}>Projects</h1>
     <div className={styles.projectsContainer}>
         <ProjectCard 
-            src={projects_img2}
-            link={`https://www.youtube.com/`}
-            title={`Travel Website`}
-            info="Look For New Places To Travel"
+            src={`https://image-tc.galaxy.tf/wijpeg-6lp8rr31vfvdy41ubtpqdgihd/wat-phnom-pagoda.jpg`}
+            link={`https://reabplan.vercel.app/`}
+            title={`Reab Plan`}
+            info="Famous Places in Cambodia"
         />
         <ProjectCard 
             src={projects_img2}
